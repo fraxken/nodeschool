@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/fraxken/nodeschool#readme",
   "dependencies": {
+    "functional-javascript-workshop": "^1.0.6",
     "javascripting": "^2.6.1"
   }
 }
