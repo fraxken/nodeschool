@@ -1,1 +1,1 @@
-console.log(new Buffer('bytewiser'));
+console.log(new Buffer("bytewiser"));
