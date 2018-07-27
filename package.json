@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/fraxken/nodeschool#readme",
   "dependencies": {
+    "bytewiser": "^2.1.0",
     "functional-javascript-workshop": "^1.0.6",
-    "javascripting": "^2.6.1"
+    "javascripting": "^2.6.1",
+    "learnyounode": "^3.5.10",
+    "planetproto": "^0.9.0"
   }
 }
