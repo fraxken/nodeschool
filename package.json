@@ -20,7 +20,7 @@
   "dependencies": {
     "bytewiser": "^2.1.0",
     "functional-javascript-workshop": "^1.0.6",
-    "got": "^9.2.2",
+    "got": "^9.6.0",
     "javascripting": "^2.6.1",
     "learnyounode": "^3.5.10",
     "planetproto": "^0.9.0"
